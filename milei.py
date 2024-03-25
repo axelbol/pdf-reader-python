@@ -1,5 +1,4 @@
 '''
-
 PDF READER
 Argentine President Javier Mieli delivered an opening speech for the 2024 Congress session in early March.
 
@@ -15,7 +14,6 @@ In this project I worked with:
 - Word Cloud
 
 Change the PDF path and play with the code!
-
 '''
 
 import PyPDF2
