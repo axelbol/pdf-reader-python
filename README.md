@@ -7,6 +7,7 @@ Argentine President Javier Mieli delivered an opening speech for the 2024 Congre
 While learning Python, I wanted to analyze his speech and get the most frequently used words in his speech.
 
 In this project I worked with:
+
 - Functions
 - For loop
 - Pdf Reader
